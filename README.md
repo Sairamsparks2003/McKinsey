@@ -1,7 +1,5 @@
 # McKinsey & Company Case Study
 
-![McKinsey & Company Logo](https://www.mckinsey.com/~/media/mckinsey/locations/asia/india/careers/our%20people/campus%20programs/mck_logo_new.ashx)
-
 This repository contains a business case study on McKinsey & Company, a global leader in management consulting. The case study highlights McKinsey's expertise in driving strategic transformations for clients worldwide and their impact on the consulting industry.
 
 ## Table of Contents
