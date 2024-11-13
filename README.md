@@ -45,6 +45,26 @@ As we stand on the precipice of a new era, one thing remains certain: McKinsey &
 
 # McKinsey & Company: Driving Innovation in Healthcare
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Healthcare at McKinsey](#healthcare-at-mckinsey)
+- [Regional Impact](#regional-impact)
+  - [Americas](#americas)
+  - [Asia](#asia)
+  - [Europe](#europe)
+  - [Middle East & Africa](#middle-east--africa)
+- [Specialized Institutes and Centers](#specialized-institutes-and-centers)
+  - [McKinsey Health Institute (MHI)](#mckinsey-health-institute-mhi)
+  - [Center for US Healthcare Improvement](#center-for-us-healthcare-improvement)
+- [Business Building in Healthcare](#business-building-in-healthcare)
+- [Featured Capabilities](#featured-capabilities)
+  - [Healthcare Analytics](#healthcare-analytics)
+  - [Actuarial Analytics](#actuarial-analytics)
+  - [Nebula Platform](#nebula-platform)
+- [Conclusion](#conclusion)
+
+## Introduction
+
 As the CEO of Cittaa Health Services Private Limited, I have always been inspired by the work of McKinsey & Company in driving innovation and tackling the biggest challenges in the healthcare industry. Their expertise and impact in healthcare consulting are truly remarkable, and I believe their approach aligns well with our own commitment to delivering innovative solutions in the mental health space.
 
 ## Healthcare at McKinsey
@@ -55,21 +75,33 @@ McKinsey & Company has established itself as a global leader in healthcare consu
 
 McKinsey's healthcare consulting expertise spans across various regions, each with its unique challenges and opportunities:
 
-1. **Americas:** In the Americas, McKinsey identifies innovative ways to address healthcare value and affordability, ensuring that people have access to high-quality care while managing costs.
+### Americas
 
-2. **Asia:** In emerging markets across Asia, McKinsey focuses on raising healthcare quality through the implementation of digital health ecosystem solutions, leveraging technology to improve access and outcomes.
+In the Americas, McKinsey identifies innovative ways to address healthcare value and affordability, ensuring that people have access to high-quality care while managing costs.
 
-3. **Europe:** Working with national health systems, public payers, and providers in Europe, McKinsey strives to improve healthcare quality and access, ensuring that people receive the care they need when they need it.
+### Asia
 
-4. **Middle East & Africa:** In the Middle East and Africa, McKinsey collaborates with governments to build capabilities and deliver high-quality healthcare outcomes to those in greatest need, addressing the unique challenges faced by these regions.
+In emerging markets across Asia, McKinsey focuses on raising healthcare quality through the implementation of digital health ecosystem solutions, leveraging technology to improve access and outcomes.
+
+### Europe
+
+Working with national health systems, public payers, and providers in Europe, McKinsey strives to improve healthcare quality and access, ensuring that people receive the care they need when they need it.
+
+### Middle East & Africa
+
+In the Middle East and Africa, McKinsey collaborates with governments to build capabilities and deliver high-quality healthcare outcomes to those in greatest need, addressing the unique challenges faced by these regions.
 
 ## Specialized Institutes and Centers
 
 McKinsey's commitment to driving innovation in healthcare is further exemplified through their specialized institutes and centers:
 
-1. **McKinsey Health Institute (MHI):** The MHI is an enduring, non-profit-generating entity within McKinsey, founded on the conviction that humanity could add as much as 45 billion extra years of higher-quality life over the next decade. This ambitious goal drives their research and initiatives.
+### McKinsey Health Institute (MHI)
 
-2. **Center for US Healthcare Improvement:** This center collaborates with healthcare leaders and researchers to deliver actionable insights on how the US healthcare system could improve patients' access to affordable, high-quality care, combining qualitative analysis with proven operational approaches.
+The MHI is an enduring, non-profit-generating entity within McKinsey, founded on the conviction that humanity could add as much as 45 billion extra years of higher-quality life over the next decade. This ambitious goal drives their research and initiatives.
+
+### Center for US Healthcare Improvement
+
+This center collaborates with healthcare leaders and researchers to deliver actionable insights on how the US healthcare system could improve patients' access to affordable, high-quality care, combining qualitative analysis with proven operational approaches.
 
 ## Business Building in Healthcare
 
@@ -79,15 +111,22 @@ McKinsey works with both high-growth and established organizations to create, la
 
 McKinsey's healthcare consulting practice is supported by a range of cutting-edge capabilities:
 
-1. **Healthcare Analytics:** Leveraging distinctive insights, analytic solutions, proprietary data, and a cutting-edge technology platform, McKinsey helps stakeholders make healthcare better, more affordable, and more accessible.
+### Healthcare Analytics
 
-2. **Actuarial Analytics:** McKinsey optimizes growth through deep actuarial, analytic, and healthcare-risk expertise, helping organizations navigate the complexities of the healthcare landscape.
+Leveraging distinctive insights, analytic solutions, proprietary data, and a cutting-edge technology platform, McKinsey helps stakeholders make healthcare better, more affordable, and more accessible.
 
-3. **Nebula Platform:** The Nebula platform operationalizes the strategic and secure use of healthcare data to deliver insights that transform healthcare systems and organizations around the world.
+### Actuarial Analytics
+
+McKinsey optimizes growth through deep actuarial, analytic, and healthcare-risk expertise, helping organizations navigate the complexities of the healthcare landscape.
+
+### Nebula Platform
+
+The Nebula platform operationalizes the strategic and secure use of healthcare data to deliver insights that transform healthcare systems and organizations around the world.
 
 ## Conclusion
 
 McKinsey & Company's impact on the healthcare industry is truly remarkable. Their commitment to delivering innovative solutions, leveraging cutting-edge capabilities, and driving meaningful change is an inspiration to us all. As we at Cittaa Health Services Private Limited strive to make a difference in the mental health space, we can learn from McKinsey's approach and dedication to tackling the biggest challenges in healthcare.
+
 
 ## About the Author
 This case study was written by Sairam Peddigari, CEO of Cittaa Health Services Private Limited. Sairam is passionate about delivering innovative solutions in the mental health industry and draws inspiration from industry leaders like McKinsey & Company.
